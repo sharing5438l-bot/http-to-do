@@ -2,7 +2,7 @@
 GET http://localhost:3000/listas
 
 ##2. Obtener una lista por título
-GET http://localhost:3000/listas/nombre/Comprar víveres
+GET http://localhost:3000/listas/nombre/Comprar 
 
 ##3. Obtener listado de tareas pendientes
 GET http://localhost:3000/listas/pendientes

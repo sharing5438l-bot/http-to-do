@@ -6,7 +6,7 @@ app.use(express.json());
 let listas = [
 {
 id: 1,
-titulo: "Comprar víveres",
+titulo: "Comprar el supermercado",
 descripcion: "Ir al supermercado a comprar alimentos para la semana",
 estado: "pendiente",
 pasos: ["Hacer lista de compras", "Ir al supermercado", "Pagar y regresar"]
